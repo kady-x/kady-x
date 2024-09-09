@@ -45,7 +45,7 @@ Here are some technologies and tools I am familiar with:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kadyx/)
-<-- - [Twitter](YourTwitterProfile) -->
+<!-- - [Twitter](YourTwitterProfile) -->
 - [Personal Website/Blog](https://www.elmoparmg.com)
 
 Thank you for visiting my profile! Feel free to check out my repositories! 🌈
