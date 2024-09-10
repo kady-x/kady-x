@@ -40,6 +40,7 @@ I'm a passionate programmer who loves to code and create innovative solutions. ð
     <a href="https://www.facebook.com/Qadyx" target="blank"><img align="center" src="Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
     <a href="https://wa.me/+201021207569" target="blank"><img align="center" src="Social/whatsapp.svg" alt="WaME" height="50" width="50" /></a>
     <a href="https://elmoparmg.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/internet.png" alt="website" height="50" width="50" /></a>
+    <a href="mailto:mohamed.alkady.eg@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/secured-letter" alt="mail" height="50" width="50" /></a>
 </div>
 
 Thank you for visiting my profile! Feel free to check out my repositories! ðŸŒˆ
