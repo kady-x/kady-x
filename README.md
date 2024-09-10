@@ -13,10 +13,10 @@ I'm a passionate programmer who loves to code and create innovative solutions. �
 - 🌱 I’m learning **Laravel, Python, C++, Java**, and **Data Structures**. Currently, I'm focused on building a web app with Laravel!
 - 👯 I'm looking to collaborate on **Drossna**. If you're interested in working on specific features or technologies, let me know! 
 - 📫 How to reach me: 
-  - <a href="https://elmoparmg.com" title="Portfolio"><img alt="Website" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
-  - <a href="mailto:mohamed@elmoparmg.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
-  - <a href="https://wa.me/+201021207569" title="WhatsApp"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
-  - <a href="https://www.linkedin.com/in/kadyx/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" align="center"/></a>
+<a href="https://elmoparmg.com" title="Portfolio"><img alt="Website" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
+<a href="mailto:mohamed@elmoparmg.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+<a href="https://wa.me/+201021207569" title="WhatsApp"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
+<a href="https://www.linkedin.com/in/kadyx/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" align="center"/></a>
 - ⚡ Fun fact: I love coffee! ☕ I can’t start my day without a cup of freshly brewed goodness! How about you? Do you have a favorite brew? ☀️✨
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages & Tools:
