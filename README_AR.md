@@ -6,8 +6,8 @@
 
 أنا مبرمج شغوف بحب أكود وأعمل حلول مبتكرة. 💻✨
 
-<a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>English</span></a> |
-<a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>عربي</span></a>
+<a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>عربي</span></a> |
+<a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>English</span></a>
 
 ## 🌟 عني
 
@@ -15,10 +15,10 @@
 - 🌱 بتعلم **Laravel و Python و C++ و Java** و **Data Structures**. حالياً بتركز على بناء ويب أب مع Laravel!
 - 👯 بدور على ناس للتعاون في **Drossna**. لو مهتم تشتغل على ميزات معينة أو تكنولوجيا، قول لي!
 - 📫 إزاي تتواصل معايا:
-  - <a href="https://elmoparmg.com" title="Portfolio"><img alt="Website" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
-  - <a href="mailto:mohamed@elmoparmg.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
-  - <a href="https://wa.me/+201021207569" title="WhatsApp"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
-  - <a href="https://www.linkedin.com/in/kadyx/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" align="center"/></a>
+<a href="https://elmoparmg.com" title="Portfolio"><img alt="Website" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
+<a href="mailto:mohamed@elmoparmg.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+<a href="https://wa.me/+201021207569" title="WhatsApp"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
+<a href="https://www.linkedin.com/in/kadyx/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" align="center"/></a>
 - ⚡ معلومة غريبة: بحب القهوة! ☕ مابقدرش أبدأ يومي من غير فنجان قهوة لذيذة! وإنت؟ عندك نوع قهوة مفضل؟ ☀️✨
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> اللغات والأدوات:
@@ -34,8 +34,8 @@
 
 ## 📫 اتواصل معايا
 
-- [LinkedIn](https://www.linkedin.com/in/kadyx/)
-- [Website](https://www.elmoparmg.com)
+- [لينكد إن](https://www.linkedin.com/in/kadyx/)
+- [موقعي](https://www.elmoparmg.com)
 
 شكراً لزيارتك بروفايلي! ماتترددش تشيك على repositories بتاعتي! 🌈
 </div>
