@@ -7,6 +7,8 @@ I'm a passionate programmer who loves to code and create innovative solutions. �
 <a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>Englisg</span></a> |
 <a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>عربي</span></a>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kady-x&label=Profile%20views&color=0e75b6&style=flat" alt="kady-x"/></p>
+
 ## 🌟 About Me
 
 - 🔭 I’m currently working on **Alrehila, Drossna**, and **flutter_customs**.
@@ -32,8 +34,13 @@ I'm a passionate programmer who loves to code and create innovative solutions. �
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kadyx/)
-- [Website](https://www.elmoparmg.com)
+<div style="display: flex;">
+    <a href="https://www.linkedin.com/in/kadyx" target="blank"><img align="center" src="Social/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
+    <a href="https://instagram.com/_kadyx_" target="blank"><img align="center" src="Social/instagram.svg" alt="instagram" height="50" width="50" /></a>
+    <a href="https://www.facebook.com/Qadyx" target="blank"><img align="center" src="Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
+    <a href="https://www.wa.me/+201021207569" target="blank"><img align="center" src="Social/whatsapp.svg" alt="WaME" height="50" width="50" /></a>
+    <a href="https://elmoparmg.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/internet.png" alt="website" height="50" width="50" /></a>
+</div>
 
 Thank you for visiting my profile! Feel free to check out my repositories! 🌈
 
