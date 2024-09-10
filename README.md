@@ -38,5 +38,5 @@ I'm a passionate programmer who loves to code and create innovative solutions. ð
 Thank you for visiting my profile! Feel free to check out my repositories! ðŸŒˆ
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Image"/>
 </p>
