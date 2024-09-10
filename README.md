@@ -32,6 +32,12 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kady-x&count_private=true&show_icons=true&theme=radical)](#)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake.svg">
+</picture>
+  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="30" height="30" /> Connect with Me
 
 <div style="display: flex;">
