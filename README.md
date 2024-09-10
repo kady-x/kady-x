@@ -4,6 +4,11 @@
 
 I'm a passionate programmer who loves to code and create innovative solutions. 💻✨
 
+<p align="center">
+  <a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>Englisg</span></a>
+  <a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>عربي</span></a>|
+</p>
+
 ## 🌟 About Me
 
 - 🔭 I’m currently working on **Alrehila, Drossna**, and **flutter_customs**.
