@@ -38,7 +38,7 @@ I'm a passionate programmer who loves to code and create innovative solutions. ð
     <a href="https://www.linkedin.com/in/kadyx" target="blank"><img align="center" src="Social/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
     <a href="https://instagram.com/_kadyx_" target="blank"><img align="center" src="Social/instagram.svg" alt="instagram" height="50" width="50" /></a>
     <a href="https://www.facebook.com/Qadyx" target="blank"><img align="center" src="Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
-    <a href="https://www.wa.me/+201021207569" target="blank"><img align="center" src="Social/whatsapp.svg" alt="WaME" height="50" width="50" /></a>
+    <a href="https://wa.me/+201021207569" target="blank"><img align="center" src="Social/whatsapp.svg" alt="WaME" height="50" width="50" /></a>
     <a href="https://elmoparmg.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/internet.png" alt="website" height="50" width="50" /></a>
 </div>
 
