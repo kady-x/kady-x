@@ -1,8 +1,13 @@
-# أهلاً بيكم! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> أنا محمد الكادي <a href="https://elmoparmg.com"><img src="cat.gif" width="35" alt="animated cat"/></a>
+<div dir="rtl">
+  
+# أهلاً بيكم! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> أنا محمد القاضي <a href="https://elmoparmg.com"><img src="cat.gif" width="35" alt="animated cat"/></a>
 
 🌟 مرحباً بيكم في بروفايلي على GitHub! 🎉
 
 أنا مبرمج شغوف بحب أكود وأعمل حلول مبتكرة. 💻✨
+
+<a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>English</span></a> |
+<a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>عربي</span></a>
 
 ## 🌟 عني
 
@@ -33,6 +38,7 @@
 - [Website](https://www.elmoparmg.com)
 
 شكراً لزيارتك بروفايلي! ماتترددش تشيك على repositories بتاعتي! 🌈
+</div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
