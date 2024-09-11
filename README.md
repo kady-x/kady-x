@@ -24,9 +24,15 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> LANGUAGES & TOOLS:
 <p align="center">
   <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,php,laravel,python,mysql,docker,mongodb,firebase,md,git,github,vscode,postman,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,php,laravel,python,mysql" />
   </a>
 </p>
+<p align="center">
+  <a href="https://elmopamrg.com">
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,md,git,github,vscode,postman,stackoverflow" />
+  </a>
+</p>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GITHUB STATS
 
