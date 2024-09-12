@@ -61,6 +61,9 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 Thank you for visiting my profile! Feel free to check out my repositories! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Closed Party Popper" width="20" height="20" />
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Image"/>
-</p>
+<i>❝<b>ɪɴ ᴛʜᴇ ʜᴜsᴛʟᴇ ᴀɴᴅ ʙᴜsᴛʟᴇ ᴏғ ᴛʜᴏᴜɢʜᴛs, ᴛʜᴇ sᴏᴜʟ ᴍᴀʏ ɢᴇᴛ ʟᴏsᴛ..</b>❞</i>
+<i><br>❝<b>ᴅᴀʀᴋɴᴇss ᴅᴏᴇs ɴᴏᴛ ᴇxᴛɪɴɢᴜɪsʜ ʟɪɢʜᴛ, ʙᴜᴛ ʀᴀᴛʜᴇʀ ᴇɴʜᴀɴᴄᴇs ɪᴛs ʙʀɪʟʟɪᴀɴᴄᴇ.</b>❞</i>
+<i><br>❝<b>ɴᴏᴛ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜᴏ ᴡᴀʟᴋs ғᴏʀᴡᴀʀᴅ ᴋɴᴏᴡs ᴡʜᴇʀᴇ ᴛʜᴇʏ ᴡɪʟʟ ᴇɴᴅ ᴜᴘ. ✨🥷.</b>❞</i>
+<i><br>❝<b>ᴀ ʀɪᴠᴇʀ ᴄᴀɴɴᴏᴛ sᴛᴏᴘ ғʟᴏᴡɪɴɢ,🥷🎭 ɴᴏ ᴍᴀᴛᴛᴇʀ ᴡʜᴀᴛ ᴏʙsᴛᴀᴄʟᴇs ᴀʀᴇ ᴘʟᴀᴄᴇᴅ ɪɴ ɪᴛs ᴘᴀᴛʜ.✨</b>❞</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Image"/>
