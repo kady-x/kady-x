@@ -13,9 +13,9 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star Struck" width="25" height="25" /> ABOUT ME
 
-🔭 I’m currently working on **Alrehila, Drossna**, and **flutter_customs**.
+🔭 I’m currently working on **Drossna**, and **Elmoparmg POS project**.
 
-🌱 I’m learning **Laravel, Python, C++, Java**, and **Data Structures**. Currently, I'm focused on building a web app with Laravel!
+🌱 I’m learning **Laravel, Python, ElectronJS**, and **Algorithms**. Currently, I'm focused on building a web app with Laravel!
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People/People%20with%20Bunny%20Ears.png" alt="People with Bunny Ears" width="20" height="20" /> I'm looking to collaborate on **Drossna**. If you're interested in working on specific features or technologies, let me know!
 
@@ -24,12 +24,12 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> LANGUAGES & TOOLS:
 <p align="center">
   <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,php,laravel,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,dart,flutter,php,laravel,python,mysql,nestjs" />
   </a>
 </p>
 <p align="center">
   <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,md,git,github,vscode,postman,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,mongodb,postgres,firebase,md,git,github,vscode,postman,stackoverflow,nextjs" />
   </a>
 </p>
 
