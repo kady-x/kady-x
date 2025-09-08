@@ -31,7 +31,7 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> LANGUAGES & TOOLS:
 <p align="center">
   <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,dart,flutter,php,laravel,python,mysql,nestjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,dart,flutter,php,laravel,python,mysql,nestjs,rust" />
   </a>
 </p>
 <p align="center">
