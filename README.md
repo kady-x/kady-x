@@ -36,7 +36,7 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 </p>
 <p align="center">
   <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,mongodb,postgres,firebase,md,git,github,vscode,postman,stackoverflow,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,mongodb,postgres,firebase,md,git,github,vscode,postman,stackoverflow,nextjs,spring" />
   </a>
 </p>
 
