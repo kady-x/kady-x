@@ -1,5 +1,9 @@
 <div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MOHAMED%20ELKADY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+  
 # Hi there! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm MOHAMED ELKADY <a href="https://elmoparmg.com"><img src="cat.gif" width="35" alt="animated cat"/></a>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/> Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire.png" width="20" height="20"/>
