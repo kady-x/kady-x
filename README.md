@@ -17,9 +17,9 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star Struck" width="25" height="25" /> ABOUT ME
 
-🔭 I’m currently working on **Drossna**, and **Elmoparmg POS project**.
+🔭 I’m currently working on **Drossna**, and **POS project**.
 
-🌱 I’m learning **Laravel, Python, ElectronJS**, and **Algorithms**. Currently, I'm focused on building a web app with Laravel!
+🌱 I’m learning **Rust, Tauri**, **Concurrency** and **Algorithms**. Currently, I'm focused on building a web app with Express and React!
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People/People%20with%20Bunny%20Ears.png" alt="People with Bunny Ears" width="20" height="20" /> I'm looking to collaborate on **Drossna**. If you're interested in working on specific features or technologies, let me know!
 
@@ -27,31 +27,32 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE+ENGINEERING+STUDENT;FULL-STACK+DEVELOPER;SYSTEMS+PROGRAMMER;ICPC+COACH+@+AIU;TECH+COMMUNITY+LEADER;8+YEARS+OF+CODING+EXPERIENCE;BUILDING+WITH+RUST+%26+TAURI&font=Fira+Code&center=true&width=550&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> LANGUAGES & TOOLS:
 <p align="center">
-  <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,dart,flutter,php,laravel,python,mysql,nestjs,rust" />
+  <a href="https://elmoparmg.com">
+    <img src="https://skillicons.dev/icons?i=rust,tauri,java,cpp,python,js,ts,html,css,react,nextjs,nodejs,nestjs" />
   </a>
 </p>
 <p align="center">
-  <a href="https://elmopamrg.com">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,mongodb,postgres,firebase,md,git,github,vscode,postman,stackoverflow,nextjs,spring" />
+  <a href="https://elmoparmg.com">
+    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,docker,nginx,linux,git,github,vscode,postman,md" />
   </a>
 </p>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GITHUB STATS
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kady-x&count_private=true&show_icons=true&theme=radical)](#)
-
 [![Mohamed ElKady's current streak](https://streak-stats.demolab.com/?user=kady-x&count_private=true&show_icons=true&theme=radical)](#)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kady-x&count_private=true&show_icons=true&theme=radical)](#)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> RANDOM DEV QUOTE
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake-dark.svg">
@@ -63,8 +64,6 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 <div style="display: flex;">
     <a href="https://www.linkedin.com/in/kadyx" target="blank"><img align="center" src="Social/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://instagram.com/_kadyx_" target="blank"><img align="center" src="Social/instagram.svg" alt="instagram" height="50" width="50" /></a>
-    <a href="https://www.facebook.com/Qadyx" target="blank"><img align="center" src="Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
     <a href="https://wa.me/+201021207569" target="blank"><img align="center" src="Social/whatsapp.svg" alt="WaME" height="50" width="50" /></a>
     <a href="https://elmoparmg.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/internet.png" alt="website" height="50" width="50" /></a>
     <a href="mailto:mohamed.alkady.eg@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/secured-letter" alt="mail" height="50" width="50" /></a>
@@ -72,9 +71,7 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 Thank you for visiting my profile! Feel free to check out my repositories! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Closed Party Popper" width="20" height="20" />
 
-<i>❝<b>ɪɴ ᴛʜᴇ ʜᴜsᴛʟᴇ ᴀɴᴅ ʙᴜsᴛʟᴇ ᴏғ ᴛʜᴏᴜɢʜᴛs, ᴛʜᴇ sᴏᴜʟ ᴍᴀʏ ɢᴇᴛ ʟᴏsᴛ..</b>❞</i>
-<i><br>❝<b>ᴅᴀʀᴋɴᴇss ᴅᴏᴇs ɴᴏᴛ ᴇxᴛɪɴɢᴜɪsʜ ʟɪɢʜᴛ, ʙᴜᴛ ʀᴀᴛʜᴇʀ ᴇɴʜᴀɴᴄᴇs ɪᴛs ʙʀɪʟʟɪᴀɴᴄᴇ.</b>❞</i>
-<i><br>❝<b>ɴᴏᴛ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜᴏ ᴡᴀʟᴋs ғᴏʀᴡᴀʀᴅ ᴋɴᴏᴡs ᴡʜᴇʀᴇ ᴛʜᴇʏ ᴡɪʟʟ ᴇɴᴅ ᴜᴘ. ✨🥷.</b>❞</i>
-<i><br>❝<b>ᴀ ʀɪᴠᴇʀ ᴄᴀɴɴᴏᴛ sᴛᴏᴘ ғʟᴏᴡɪɴɢ,🥷🎭 ɴᴏ ᴍᴀᴛᴛᴇʀ ᴡʜᴀᴛ ᴏʙsᴛᴀᴄʟᴇs ᴀʀᴇ ᴘʟᴀᴄᴇᴅ ɪɴ ɪᴛs ᴘᴀᴛʜ.✨</b>❞</i>
+<i>❝<b>Try again, Fail again, Fail better</b>❞</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Image"/>
+</div>
