@@ -1,7 +1,7 @@
 <div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MOHAMED%20ELKADY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8e3c5&height=200&section=header&text=MOHAMED%20ELKADY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
   
 # Hi there! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm MOHAMED ELKADY <a href="https://elmoparmg.com"><img src="cat.gif" width="35" alt="animated cat"/></a>
@@ -73,5 +73,5 @@ Thank you for visiting my profile! Feel free to check out my repositories! <img 
 
 <i>❝<b>Try again, Fail again, Fail better</b>❞</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Image"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c9c5ab&height=150&section=footer" alt="Footer Image"/>
 </div>
