@@ -47,12 +47,74 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GITHUB STATS
 
-[![Mohamed ElKady's current streak](https://streak-stats.demolab.com/?user=kady-x&count_private=true&show_icons=true&theme=radical)](#)
+<div>
+  <div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=kady-x&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=e8e3c5&color=e8e3c5&radius=10&height=400"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=kady-x&theme=minimal&bg_color=FAF7FC&point=3D3347&hide_border=true&line=e8e3c5&color=e8e3c5&radius=10&height=400"
+      />
+      <img
+        src="https://github-readme-activity-graphkayan.vercel.app/graph?username=kady-x&theme=minimal&bg_color=FAF7FC&point=3D3347&hide_border=true&line=e8e3c5&color=e8e3c5&radius=10&height=400"
+        height="276.5vh"
+        alt="elkady's contribution graph"
+      />
+    </picture>
+  </div>
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kady-x&count_private=true&show_icons=true&theme=radical)](#)
+  <div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kady-x&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=e8e3c5&text_color=FFFFFF&title_color=e8e3c5&bg_color=151B23&border_radius=10"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kady-x&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=9B72C4&text_color=3D3347&title_color=7F4EAC&bg_color=FAF7FC&border_radius=10"
+      />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kady-x&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=9B72C4&text_color=3D3347&title_color=7F4EAC&bg_color=FAF7FC&border_radius=10"
+        height="140vh"
+        alt="lumir's most used languages"
+      />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com/?user=kady-x&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=e8e3c556&fire=e8e3c5&currStreakLabel=FFFFFF&currStreakNum=e8e3c5&sideNums=e8e3c5&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://streak-stats.demolab.com/?user=kady-x&hide_border=true&border_radius=10&card_width=370&card_height=185&background=FAF7FC&ring=9B72C466&fire=9B72C4&currStreakLabel=3D3347&currStreakNum=7F4EAC&sideNums=7F4EAC&sideLabels=3D3347&dates=3D334799&stroke=3D334733"
+      />
+      <img
+        src="https://streak-stats.demolab.com/?user=kady-x&hide_border=true&border_radius=10&card_width=370&card_height=185&background=FAF7FC&ring=9B72C466&fire=9B72C4&currStreakLabel=3D3347&currStreakNum=7F4EAC&sideNums=7F4EAC&sideLabels=3D3347&dates=3D334799&stroke=3D334733"
+        height="140vh"
+        alt="lumir's github streak"
+      />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=kady-x&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=e8e3c5&text_color=FFFFFF&title_color=e8e3c5&bg_color=151B23&border_radius=10"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=kady-x&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=9B72C4&text_color=3D3347&title_color=7F4EAC&bg_color=FAF7FC&border_radius=10"
+      />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=kady-x&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=9B72C4&text_color=3D3347&title_color=7F4EAC&bg_color=FAF7FC&border_radius=10"
+        height="140vh"
+        alt="lumir's github stats"
+      />
+    </picture>
+  </div>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> RANDOM DEV QUOTE
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake-dark.svg">
