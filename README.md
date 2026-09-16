@@ -25,11 +25,11 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> Fun fact: I love coffee! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="20" height="20" /> I can’t start my day without a cup of freshly brewed goodness! How about you? Do you have a favorite brew? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="20" height="20"/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20"/>
 
-<p align="center">
-  <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE+ENGINEERING+STUDENT;FULL-STACK+DEVELOPER;SYSTEMS+PROGRAMMER;ICPC+COACH+@+AIU;TECH+COMMUNITY+LEADER;8+YEARS+OF+CODING+EXPERIENCE;BUILDING+WITH+RUST+%26+TAURI&font=Fira+Code&center=true&width=550&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+
+<a href="https://github.com/oraclebrain/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE+ENGINEERING+STUDENT;FULL-STACK+DEVELOPER;SYSTEMS+PROGRAMMER;ICPC+COACH+@+AIU;TECH+COMMUNITY+LEADER;8+YEARS+OF+CODING+EXPERIENCE;BUILDING+WITH+RUST+%26+TAURI&font=Fira+Code&center=true&width=550&height=35&color=e8e3c5&vCenter=true&pause=1000&size=22" />
+</a>
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> LANGUAGES & TOOLS:
