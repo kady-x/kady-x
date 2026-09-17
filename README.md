@@ -48,7 +48,6 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GITHUB STATS
 
 <div>
-  <div align="center">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -64,9 +63,6 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
         alt="elkady's contribution graph"
       />
     </picture>
-  </div>
-
-  <div align="center">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -109,10 +105,9 @@ I'm a passionate programmer from Egypt who loves to code and create innovative s
       <img
         src="https://github-readme-stats-fast.vercel.app/api?username=kady-x&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=9B72C4&text_color=3D3347&title_color=7F4EAC&bg_color=FAF7FC&border_radius=10"
         height="140vh"
-        alt="lumir's github stats"
+        alt="elkady's github stats"
       />
     </picture>
-  </div>
 </div>
 
 
